@@ -1,0 +1,33 @@
+.footer {
+  padding: 40px;
+  display: flex;
+  justify-content: space-between;
+  background-color: rgba(8, 60, 99, 0.247);
+  color: #083c63;
+  text-align: left;
+}
+
+.footer__left > img {
+  width: 10vw;
+}
+.footer__middle > ul > li {
+  margin-bottom: 10px;
+  text-transform: capitalize;
+}
+
+.subscribe__form > input {
+  width: 20vw;
+  height: 30px;
+  border: none;
+  outline: none;
+  padding: 5px;
+}
+h3.subscribe___header {
+  margin-bottom: 10px;
+}
+.subscribe__form > button {
+  border: none;
+  background-color: #083c63;
+  padding: 12px 15px;
+  color: white;
+}
